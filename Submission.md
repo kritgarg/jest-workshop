@@ -43,7 +43,7 @@ Ensures user convenience by accepting coupons in different casing (e.g., save10 
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? Yes (Local Tests Passed)
-- GitHub Actions Run URL: https://github.com/kritgarg/jest-workshop/actions
+- GitHub Actions Run URL: https://github.com/kritgarg/jest-workshop/actions/runs/21825727666
 
 ---
 
